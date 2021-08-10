@@ -1,6 +1,7 @@
-#include<iostream>
-using namespace std;
-void file_func();
+#include"./func.h"
+
+
+
 int main()
 {
     file_func();
